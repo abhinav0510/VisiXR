@@ -1,4 +1,4 @@
-#VisiXR
+<h1> VisiXR</h1>
 
 VisiXR is a virtual reality-themed web interface designed as a modern, responsive, and interactive front-end project. Built with Vite, React, and Tailwind CSS, it delivers a sleek and engaging user experience.
 
