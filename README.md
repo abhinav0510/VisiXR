@@ -28,16 +28,16 @@ The app will run locally at: http://localhost:5173
 
 <h2>📁 Project Structure</h2>
 
-VisiXR-main/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── constants/
-│   ├── pages/
-│   └── App.jsx
-├── index.html
-└── tailwind.config.js
+VisiXR-main/<br />
+├── public/<br />
+├── src/<br />
+│   ├── assets/<br />
+│   ├── components/<br />
+│   ├── constants/<br />
+│   ├── pages/<br />
+│   └── App.jsx<br />
+├── index.html<br />
+└── tailwind.config.js<br />
 
 <h2> 📸 Preview</h2>
 
